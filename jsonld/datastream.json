@@ -1,0 +1,58 @@
+{
+  "@context":
+{
+"@vocab": "https://schema.org/"
+},
+"@type": "Dataset",
+"@id": "ad780d9a-e6a7-4a6f-824c-367b40d377b8",
+"name": "ACAP Saint John: Temperature Logger Data",
+"description": "ACAP Saint John’s Water Quality Monitoring Programs aim to build upon the community-based water monitoring program established in 1992 in the Greater Saint John Area. The data collected from these various monitoring programs is used to track stressors, determine restoration sites, strengthen/shape policy, and expand community partnerships. Water temperature is logged in various watercourses across the Greater Saint John using temperature logger deployed for months at a time.",
+"url": "https://datastream.org/dataset/ad780d9a-e6a7-4a6f-824c-367b40d377b8",
+"version": "2.0.0",
+"datePublished": "2019-02-04T22:19:58.129Z",
+"dateModified": "2022-04-30T15:48:42.840Z",
+"isAccessibleForFree": true,
+"keywords": "Harbour, Saint John, New Brunswick, Water temperature, Urban, Bay of Fundy",
+"license": "https://opendatacommons.org/licenses/by/1-0/",
+"citation": "ACAP Saint John. 2022-04-30. \"ACAP Saint John: Temperature Logger Data\" (dataset). 2.0.0. DataStream. https://doi.org/10.25976/12cf-1g82.",
+"identifier":
+{
+"@type":
+[
+"PropertyValue",
+"datacite:ResourceIdentifier"
+],
+"datacite:usesIdentifierSchema":
+{
+"@id": "datacite:doi"
+},
+"propertyID": "DOI",
+"url": "https://doi.org/10.25976/12cf-1g82",
+"value": "10.25976/12cf-1g82"
+},
+"temporalCoverage": "2016-08-04T13:54:00-03:00/2018-12-06T10:55:50-04:00",
+"spatialCoverage":
+{
+"@type": "Place",
+"geo":
+{
+"@type": "GeoShape",
+"box": "-66.19002 45.193191 -65.88223 45.40079"
+}
+},
+"measurementTechnique": "Water temperature is logged using either HOBO or EasyLog temperature loggers attached to cinder blocks and left in the watercourse for various time periods based on the program.",
+"variableMeasured":
+[],
+"creator":
+{
+"@type": "Organization",
+"name": "ACAP Saint John"
+},
+"publisher":
+{
+"@type": "Organization",
+"name": "DataStream",
+"url": "https://datastream.org",
+"logo": "https://datastream.org/favicon.svg"
+}
+}

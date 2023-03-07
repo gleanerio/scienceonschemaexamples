@@ -1,0 +1,14 @@
+[{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://oceanscape.org/organisation/deep-ocean-stewardship-initiative/#Organization",
+  "url": "https://oceanscape.org/organisation/deep-ocean-stewardship-initiative/",
+  "description": "",
+  "name": "Deep-Ocean Stewardship Initiative",
+  "address": {
+    "streetAddress": "University of Southampton, Waterfront Campus, European Way, Southampton, UK",
+    "addressCountry": ""
+  },
+  "logo": "https://oceanscape.org/wp-content/uploads/2019/09/DOSI-Logo.jpg",
+  "knowsAbout": "Advocating for (ocean) science, Defining strategies/road maps/priorities for Earth (ocean) observing/science, Providing scientific advice for policy makers"
+}]

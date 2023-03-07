@@ -1,0 +1,8 @@
+brief,issue,file
+ieda_dataaset, short dataset,
+datastream_id, bad #id, datastream.json
+nsidc_graph_id, bad #id, nsidc_graph.json
+pogo, grapharray, pogo.json
+cchdo, datacatalog, cchdo_49SU9402_2.json
+wifire, @graph, wifire.json
+r2r, badcontext, r2r.json

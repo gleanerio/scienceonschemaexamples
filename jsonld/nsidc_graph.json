@@ -1,0 +1,51 @@
+{
+  "@context": {
+    "vocab": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@type": "Dataset",
+      "provider": {
+        "@type": "Organization",
+        "name": "NSIDC: National Snow and Ice Data Center",
+        "url": "https://nsidc.org",
+        "logo": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://nsidc.org/sites/nsidc.org/files/images/nsidc-logo.png",
+          "width": "60 px",
+          "height": "60 px"
+        }
+      },
+      "@id": "NSIDC-0303",
+      "name": "Radar Investigations of Antarctic Ice Stream Margins, Siple Dome, 1998, Version 1",
+      "version": "1",
+      "description": "This data set consists of surface-based radar measurements, including geometry of the bed, surface, and internal layers, and bed reflectivity measurements at two sites along ice stream margins at Siple Dome, Antarctica. The research is a radar examination of bed reflection characteristics and internal layer geometry in two inter-ice-stream ridges, the Shabtaie Ridge (Ridge D/E) and the Engelhardt Ridge (Ridge B/C), and across margins with the adjacent ice streams, the MacAyeal Ice Stream (Ice Stream E) and the Whillans Ice Stream (Ice Stream B). Investigators collected these radar data from 14 November through 13 December 1998. Data are in Microsoft Word, PDF, ASCII text, MATLAB, binary, and various image formats. Investigators have also provided code for MATLAB routines that they used to view the radar data. Data are available via FTP.",
+      "temporalCoverage": "1998-11-14 00:00:00 to 1998-12-13 00:00:00",
+      "spatialCoverage": "N: -80.1678, S: -83.3528, E: -138.3697, W: -141.6722",
+      "identifier": "https://doi.org/10.7265/N52B8VZP",
+      "keywords": "Radar \u0026gt; Radar Reflectivity \u0026gt; Bed Reflectivity, Radar \u0026gt; Radar Imagery \u0026gt; Bed, Surface, and Internal Layer Geometry",
+      "author": {
+        "@type": "Person",
+        "name": [
+          "Nadine Nereson",
+          "Charles Raymond"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://nsidc.org",
+        "name": "National Snow and Ice Data Center",
+        "url": "https://nsidc.org",
+        "logo": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://nsidc.org/sites/nsidc.org/files/images/nsidc-logo.png",
+          "width": "60 px",
+          "height": "60 px"
+        }
+      },
+      "url": "https://nsidc.org/data/NSIDC-0303/versions/1"
+    }
+  ]
+}

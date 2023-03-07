@@ -1,0 +1,23 @@
+[{
+  "@context": "https://schema.org/",
+  "@type": "Organization",
+  "name": "Partnership for Observation of the Global Ocean",
+  "url": "https://www.ird.fr/",
+  "sameAs": [],
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://pogo-ocean.org/wp-content/uploads/2022/10/logo_IRD_2016_LONGUEUR_FR_BLANC_coloured.png",
+    "width": 1451,
+    "height": 337
+  },
+  "address": {
+    "streetAddress": "Research Institute for Development, Boulevard de Dunkerque, Marseille, France"
+  },
+  "image": [{
+    "@type": "ImageObject",
+    "@id": "https://pogo-ocean.org/pogo-member/ird-institut-de-recherche-pour-le-developpement/#primaryimage",
+    "url": "https://pogo-ocean.org/wp-content/uploads/2022/10/logo_IRD_2016_LONGUEUR_FR_BLANC_coloured.png",
+    "width": "1451",
+    "height": "337"
+  }]
+}]
